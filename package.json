@@ -1,0 +1,23 @@
+{
+  "name": "react-notes",
+  "version": "1.0.0",
+  "description": "react notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gldaniil/react-notes.git"
+  },
+  "keywords": [
+    "react",
+    "notes"
+  ],
+  "author": "gldaniil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gldaniil/react-notes/issues"
+  },
+  "homepage": "https://github.com/gldaniil/react-notes#readme"
+}
